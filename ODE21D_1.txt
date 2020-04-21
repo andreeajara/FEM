@@ -1,0 +1,2 @@
+Numero_de_elementos Numero_de_nodos Orden_de_aproximacion Puntos_para_integracion
+2 5 2 3 

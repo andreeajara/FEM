@@ -1,0 +1,2 @@
+Longitud_del_dominio Numero_de_elementos Orden_de_aproximacion Puntos_para_integracion
+0.05 2 2 3 
